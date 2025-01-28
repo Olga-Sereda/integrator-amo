@@ -3,11 +3,13 @@
 # frontend
 
 Установка - **npm install**
+
 Запуск - **npm run dev**
 
 # backend
 
 Установка - **npm install**
+
 Запуск - **npm run start**
 
 **ВАЖНО**
